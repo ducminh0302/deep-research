@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Deep Search Chat",
+  "description": "A Gemini-like chat interface capable of deep research and real-time web searching using the Google GenAI SDK.",
+  "requestFramePermissions": []
+}

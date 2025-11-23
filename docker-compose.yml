@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    ports:
+      - "3000:80"
+    environment:
+      - VITE_GEMINI_API_KEY=${API_KEY}
+    restart: always
