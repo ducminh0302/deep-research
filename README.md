@@ -41,7 +41,7 @@ A powerful, agentic chat application powered. This app goes beyond simple Q&A by
 3.  **Set up Environment Variables**:
     Create a `.env.local` file in the root directory:
     ```env
-    VITE_GEMINI_API_KEY=your_actual_api_key_here
+    GEMINI_API_KEY=your_actual_api_key_here
     ```
 
 4.  **Run the development server**:
